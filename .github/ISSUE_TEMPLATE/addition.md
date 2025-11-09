@@ -52,4 +52,4 @@ To ensure your issue is dealt with swiftly, please check the following (check th
 - [ ] Any software you are adding is not already listed at any of [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.bevry.me](https://staticsitegenerators.bevry.me/), [dbdb.io](https://dbdb.io/browse).
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding was first released more than 4 months ago.
-- [ ] Any software project you are adding has working installation instructions.
+- [ ] Any software project you are adding has working installation instructions. 
